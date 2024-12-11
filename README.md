@@ -1,1 +1,1 @@
-"# Join Clarity Landing Page in React" 
+# Join Clarity Landing Page in React
